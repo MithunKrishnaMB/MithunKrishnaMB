@@ -1,77 +1,15 @@
-<h1 align="center">Hi, I'm Mithun Krishna M B 👋</h1>
-
-<p align="center">
-  <b>Computer Science & Engineering Student · AI/ML Enthusiast · Full-Stack Developer</b>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mithunkrishnamb">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mithunkrishnamb22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 👤 About Me
-
-I'm a B.Tech Computer Science student at **Govt. Model Engineering College, Kochi**, pursuing an Honours Degree in **Machine Learning**. I build end-to-end systems — from ML pipelines and REST APIs to full-stack web apps — with a focus on AI, data science, and software quality.
-
-- 🤖 Interested in **AI/ML and Full Stack Development**
-- 🌐 Built production-grade apps using **React, FastAPI, Express, and Supabase**
-- 🎯 Actively seeking internship and collaborative opportunities in **AI/ML or Full-Stack Development**
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-
-**Frameworks & Libraries**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+# 💫 About Me:
+# Hi there, I'm Mithun Krishna M B 👋<br><br>I am a Computer Science Engineering B.Tech student at Govt. Model Engineering College, also pursuing an Honours Degree in Machine Learning from KTU[cite: 1]. I enjoy solving problems and building scalable full-stack applications and AI/ML-driven systems[cite: 1].<br><br>## 🚀 About Me<br>* 🎓 Studying B.Tech in Computer Science Engineering (2027) with an Honours focus on Machine Learning[cite: 1].<br>* 💡 Interested in **Full Stack Development**, **Artificial Intelligence**, **Machine Learning**, and **Cloud Computing**[cite: 1].<br>* 🧠 Certified in **Data Structures and Algorithms** (IIT Madras/NPTEL) and **Deep Learning** (IIT Ropar/NPTEL)[cite: 1].<br>* 🏋️ When I am not coding, I enjoy fitness and gaming[cite: 1].<br><br>---<br><br>## 🛠️ Tech Stack & Skills<br>* **Languages:** Python, Java, C, SQL, HTML, CSS, JavaScript, TypeScript[cite: 1]<br>* **Web & Backend:** React, Express.js, Node.js, FastAPI, RESTful APIs, Tailwind CSS[cite: 1]<br>* **Data Science & AI/ML:** NumPy, Pandas, Scikit-learn, Matplotlib, ChromaDB, Google Gemini API[cite: 1]<br>* **Databases & Tools:** PostgreSQL, MongoDB, MariaDB, Supabase, Git[cite: 1]<br>* **Core Concepts:** Data Structures and Algorithms, Object-Oriented Programming[cite: 1]<br><br>---<br><br>## 💻 Featured Projects<br><br>### 🤖 [Intelligence Hub]<br>* Designed and developed an Agentic AI web application using **Python**, **JavaScript**, **FastAPI**, **React**, **MariaDB**, **ChromaDB**, and the **Google Gemini API**[cite: 1].<br>* Implemented Retrieval-Augmented Generation (RAG) to automate post-meeting NLP analysis and enable real-time semantic search, reducing manual review effort by 50%[cite: 1].<br><br>### 📊 [AcadAlert]<br>* Built an academic monitoring system using **Python**, **React Native**, **Express**, **Supabase**, **FastAPI**, **Scikit-learn**, and **Pandas**[cite: 1].<br>* Implemented a Random Forest machine learning model to predict student dropout risk across three categories, achieving a macro F1 score of 99.92%[cite: 1].<br><br>### 🏡 [Estate Ease]<br>* Contributed to a responsive full-stack real estate platform built with **React**, **Tailwind CSS**, **Express.js**, and a **PostgreSQL** backend via **Supabase**[cite: 1].<br>* Integrated RESTful APIs and optimized performance to reduce page load time by 30%[cite: 1].
 
 
-## 📊 GitHub Stats
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mithunkrishnamb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mithunkrishnamb22@gmail.com) 
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=MithunKrishnaMB&theme=calm&hide_border=true&include_all_commits=true&count_private=false" height="160"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MithunKrishnaMB&theme=calm&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="160"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MithunKrishnaMB&theme=calm&hide_border=true"/>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MithunKrishnaMB&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MithunKrishnaMB&theme=default_repocard&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MithunKrishnaMB&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
-
-## 📫 Get In Touch
-
-- 📧 **Email:** [mithunkrishnamb22@gmail.com](mailto:mithunkrishnamb22@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/mithunkrishnamb](https://linkedin.com/in/mithunkrishnamb)
-- 💻 **GitHub:** [github.com/MithunKrishnaMB](https://github.com/MithunKrishnaMB)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
