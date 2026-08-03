@@ -19,8 +19,7 @@
 
 I'm a B.Tech Computer Science student at **Govt. Model Engineering College, Kochi**, pursuing an Honours Degree in **Machine Learning**. I build end-to-end systems — from ML pipelines and REST APIs to full-stack web apps — with a focus on AI, data science, and software quality.
 
-- 🤖 Interested in **AI/ML, Data Science, and Test Automation / Software QA**
-- 🧠 Experienced with **Random Forest classifiers, RAG pipelines, and NLP workflows**
+- 🤖 Interested in **AI/ML and Full Stack Development**
 - 🌐 Built production-grade apps using **React, FastAPI, Express, and Supabase**
 - 🎯 Actively seeking internship and collaborative opportunities in **AI/ML or Full-Stack Development**
 
